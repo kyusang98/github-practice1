@@ -1,7 +1,4 @@
 # github-practice1
-"# gitbash-test" 
-"# gitbash-test" 
-"# gitbash-test" 
 
 
 git remote add origin https://github.com/kyusang98/github-practice1.git 을 사용하였습니다.
@@ -11,3 +8,6 @@ git remote add origin https://github.com/kyusang98/github-practice1.git 을 사�
 https://github.com/kyusang98/github-practice1.git 레포지토리에 push됩니다.  
 
 이 부분은 vscode를 통해 2023/4/10/ 12:44에 수정되었습니다.
+
+
+이 부분은 05/04에 cmd를 통해 추가 되었습니다.
